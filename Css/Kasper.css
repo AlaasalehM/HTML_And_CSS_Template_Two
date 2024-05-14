@@ -401,6 +401,12 @@ header nav .form i {
     bottom: -150px;
 }
 
+@media (max-width: 767px) {
+    .design .image {
+        display: none;
+    }
+}
+
 .design .text {
     color: white;
     padding: 50px;
